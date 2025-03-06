@@ -3,6 +3,7 @@
 // Notes: 
 // The Doolittle Algorithm is a method for performing LU Decomposition, where a given matrix is decomposed into a lower triangular matrix L and an upper triangular matrix U. 
 // This decomposition is widely used in solving systems of linear equations, inverting matrices, and computing determinants.
+// More info here: https://www.geeksforgeeks.org/doolittle-algorithm-lu-decomposition/
 
 #include <stdio.h>
 
