@@ -1,3 +1,6 @@
+// This program approximates the exponential function e^(At) using a rational function update rule.
+// This method is a special numerical approximation for exponentials, related to the bilinear (Tustin) transform.
+
 #include <stdio.h>
 #include <math.h>
 
