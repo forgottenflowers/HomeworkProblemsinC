@@ -1,4 +1,4 @@
-// This function applies Newton's Method to find a root of f(y), starting at an initial guess x.
+// This program implements Newton's Method to find a root of f(y), starting at an initial guess x.
 
 #include<stdio.h>
 #include<math.h>
